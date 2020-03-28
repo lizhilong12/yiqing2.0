@@ -1,9 +1,9 @@
 package com.nunu.common.utils;
 
 public class BasePojo {
-	private Integer id; // 主键
-	private Integer start; // 起始行
-	private Integer rows; // 所取行数
+	private Integer id; 
+	private Integer start; 
+	private Integer rows; 
 
 	public Integer getId() {
 		return id;
